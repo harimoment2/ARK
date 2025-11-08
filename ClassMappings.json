@@ -61,6 +61,10 @@
       "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire"
     },
     {
+      "fromClass": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
+      "toClass": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP"
+    },
+    {
       "fromClass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning_C",
       "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning"
     },
@@ -74,6 +78,10 @@
     },
     {
       "fromClass": "/SDinoVariants/S-Maeguana/S-Maelizard_Character_BP.S-Maelizard_Character_BP_C",
+      "toClass": "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP"
+    },
+    {
+      "fromClass": "/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP_C",
       "toClass": "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP"
     },
     {
