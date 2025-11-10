@@ -22,7 +22,7 @@
     },
     {
       "fromClass": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA_C",
-      "toClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA_C.Ceratosaurus_Character_BP_ASA"
+      "toClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C"
     },
     {
       "fromClass": "/SDinoVariants/S-Daeodon/S-Daeodon_Character_BP.S-Daeodon_Character_BP_C",
@@ -126,7 +126,7 @@
     },
     {
       "fromClass": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed_C",
-      "toClass": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male.Xenomorph_Character_BP_Male"
+      "toClass": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed"
     },
     {
       "fromClass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP_C",
@@ -215,6 +215,14 @@
     {
       "fromClass": "/Gryphons/Subspecies/Arctic/Gryphon_Arctic_Character_BP.Gryphon_Arctic_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP"
+    },
+    {
+      "fromClass": "/Laelaps/Laelaps/Gwangi_Character_BP.Gwangi_Character_BP_C",
+      "toClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
+    },
+    {
+      "fromClass": "/Laelaps/Laelaps/Gwangi_Character_BP.Gwangi_Character_BP_C",
+      "toClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
     }
   ]
 }
