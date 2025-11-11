@@ -162,7 +162,7 @@
     },
     {
       "fromClass": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn_C",
-      "toClass": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP"
+      "toClass": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn"
     },
     {
       "fromClass": "/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP_C",
