@@ -223,6 +223,10 @@
     {
       "fromClass": "/Laelaps/Laelaps/Gwangi_Character_BP.Gwangi_Character_BP_C",
       "toClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
+    },
+    {
+      "fromClass": "/DesmodusASEP/ModContent/Desmodus/Desmodus_Character_BP_ASEP.Desmodus_Character_BP_ASEP_C",
+      "toClass": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP_C"
     }
   ]
 }
