@@ -227,6 +227,14 @@
     {
       "fromClass": "/DesmodusASEP/ModContent/Desmodus/Desmodus_Character_BP_ASEP.Desmodus_Character_BP_ASEP_C",
       "toClass": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP_C"
+    },
+    {
+      "fromClass": "/CyrusGecko/Content/Creatures/Gecko/AbberantGecko_Character_BP.AbberantGecko_Character_BP_C",
+      "toClass": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP"
+    },
+    {
+      "fromClass": "/CyrusGecko/Content/Creatures/Gecko/Gecko_Character_BP.Gecko_Character_BP_C",
+      "toClass": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP"
     }
   ]
 }
