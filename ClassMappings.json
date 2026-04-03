@@ -235,6 +235,22 @@
     {
       "fromClass": "/CyrusGecko/Content/Creatures/Gecko/Gecko_Character_BP.Gecko_Character_BP_C",
       "toClass": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP"
+    },
+    {
+      "fromClass": "/DesmodusASEP/ModContent/Desmodus/Desmodus_Character_BP_Aberrant_ASEP.Desmodus_Character_BP_Aberrant_ASEP_C",
+      "toClass": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP_C"
+    },
+    {
+      "fromClass": "/AAAcro/Dinos/Asc_AcrocanthosaurusAA_Character_BP.Asc_AcrocanthosaurusAA_Character_BP_C",
+      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
+    },
+    {
+      "fromClass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.Asc_AcrocanthosaurusAA_Character_BP_C",
+      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
+    },
+    {
+      "fromClass": "/AAAcro/Dinos/PaleoArk_AcrocanthosaurusAA_Character_BP.PaleoArk_AcrocanthosaurusAA_Character_BP_C",
+      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
     }
   ]
 }
