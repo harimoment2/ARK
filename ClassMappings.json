@@ -245,11 +245,11 @@
       "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
     },
     {
-      "fromClass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.Asc_AcrocanthosaurusAA_Character_BP_C",
+      "fromClass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP_C",
       "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
     },
     {
-      "fromClass": "/AAAcro/Dinos/PaleoArk_AcrocanthosaurusAA_Character_BP.PaleoArk_AcrocanthosaurusAA_Character_BP_C",
+      "fromClass": "/AAAcro/Dinos/PaleoArk_Acrocanthosaurus_Character_BP.PaleoArk_Acrocanthosaurus_Character_BP_C",
       "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
     }
   ]
