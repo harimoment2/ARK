@@ -253,7 +253,7 @@
       "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
     },
     {
-      "fromClass": "/AAAcro/Dinos/SE_Acrocanthosaurus_Character_BP.SE_Acrocanthosaurus_Character_BP_C",
+      "fromClass": "/AAAcro/Dinos/SE_AcrocanthosaurusAA_Character_BP.SE_AcrocanthosaurusAA_Character_BP_C",
       "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
     }
   ]
