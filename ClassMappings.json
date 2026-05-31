@@ -1,32 +1,32 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/Moros_Nothosaurus/Dinos/Blueprints/MorosAberrantNothosaurus_Character_BP_.MorosAberrantNothosaurus_Character_BP_C",
-      "toClass": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/Aberrant/PA_Aberrant_Cryptoclidus_Character_BP.PA_Aberrant_Cryptoclidus_Character_BP"
+      "fromClass": "/Moros_Nothosaurus/Dinos/Blueprints/MorosAberrantNothosaurus_Character_BP_.MorosAberrantNothosaurus_Character_BP__C",
+      "toClass": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/Aberrant/PA_Aberrant_Cryptoclidus_Character_BP.PA_Aberrant_Cryptoclidus_Character_BP_C"
     },
     {
       "fromClass": "/Moros_Nothosaurus/Dinos/Blueprints/MorosNothosaurus_Character_BP.MorosNothosaurus_Character_BP_C",
-      "toClass": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP"
+      "toClass": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP_C"
     },
     {
       "fromClass": "/Moros_Gigantophis/Dinos/Gigantophis/MorosGigantophis_Character_BP.MorosGigantophis_Character_BP_C",
-      "toClass": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP"
+      "toClass": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C"
     },
     {
-      "fromClass": "/Hydrovanta/Dinos/Hydrovanta/Blueprints/Hydrovanta_Character_BP_C.Hydrovanta_Character_BP_C",
-      "toClass": "/Game/ASA/Dinos/GrandTortugar/GrandTortugar_Character_BP.GrandTortugar_Character_BP"
+      "fromClass": "/Hydrovanta/Dinos/Hydrovanta/Blueprints/Hydrovanta_Character_BP_C.Hydrovanta_Character_BP_C_C",
+      "toClass": "/Game/ASA/Dinos/GrandTortugar/GrandTortugar_Character_BP.GrandTortugar_Character_BP_C"
     },
     {
       "fromClass": "/TAC_Antrodemus/Content/Antrodemus/TAC_Antrodemus_Character_Bp_C.TAC_Antrodemus_Character_Bp_C_C",
-      "toClass": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP"
+      "toClass": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C"
     },
     {
       "fromClass": "/TAC_Antrodemus/Content/Antrodemus/Variants/Ab/TAC_AB_Antrodemus_Character_Bp_C.TAC_AB_Antrodemus_Character_Bp_C_C",
-      "toClass": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP"
+      "toClass": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C"
     },
     {
       "fromClass": "/TAC_Antrodemus/Content/Antrodemus/Variants/SE/TAC_SE_Antrodemus_Character_Bp_C.TAC_SE_Antrodemus_Character_Bp_C_C",
-      "toClass": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP"
+      "toClass": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C"
     }
   ]
 }
