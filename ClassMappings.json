@@ -9,11 +9,11 @@
       "toClass": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP"
     },
     {
-      "fromClass": "/Moros_Gigantophis/Dinos/Gigantophis/MorosGigantophis_Character_BP.MorosGigantophis_Character_BP_C",
+      "fromClass": "/Moros_Gigantophis/Dinos/Gigantophis/MorosGigantophis_Character_BP.MorosGigantophis_Character_BP",
       "toClass": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP"
     },
     {
-      "fromClass": "/Hydrovanta/Dinos/Hydrovanta/Blueprints/Hydrovanta_Character_BP_C.Hydrovanta_Character_BP_C_C",
+      "fromClass": "/Hydrovanta/Dinos/Hydrovanta/Blueprints/Hydrovanta_Character_BP_C.Hydrovanta_Character_BP_C",
       "toClass": "/Game/ASA/Dinos/GrandTortugar/GrandTortugar_Character_BP.GrandTortugar_Character_BP"
     },
     {
