@@ -1,15 +1,15 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/Moros_Nothosaurus/Dinos/Blueprints/MorosAberrantNothosaurus_Character_BP_.MorosAberrantNothosaurus_Character_BP_",
+      "fromClass": "/Moros_Nothosaurus/Dinos/Blueprints/MorosAberrantNothosaurus_Character_BP_.MorosAberrantNothosaurus_Character_BP_C",
       "toClass": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/Aberrant/PA_Aberrant_Cryptoclidus_Character_BP.PA_Aberrant_Cryptoclidus_Character_BP"
     },
     {
-      "fromClass": "/Moros_Nothosaurus/Dinos/Blueprints/MorosNothosaurus_Character_BP.MorosNothosaurus_Character_BP",
+      "fromClass": "/Moros_Nothosaurus/Dinos/Blueprints/MorosNothosaurus_Character_BP.MorosNothosaurus_Character_BP_C",
       "toClass": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP"
     },
     {
-      "fromClass": "/Moros_Gigantophis/Dinos/Gigantophis/MorosGigantophis_Character_BP.MorosGigantophis_Character_BP",
+      "fromClass": "/Moros_Gigantophis/Dinos/Gigantophis/MorosGigantophis_Character_BP.MorosGigantophis_Character_BP_C",
       "toClass": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP"
     },
     {
